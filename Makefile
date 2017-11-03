@@ -1,4 +1,4 @@
-# Makefile for locality (Comp 40 Assignment 3)
+# Makefile for locality
 # 
 # Includes build rules for a2test and ppmtrans.
 #
